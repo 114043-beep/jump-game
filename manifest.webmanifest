@@ -1,0 +1,21 @@
+{
+  "name": "超級阿里山兄弟：百年鐵道之旅",
+  "short_name": "阿里山兄弟",
+  "description": "一款以阿里山鐵道為背景的遊戲，探索歷史與冒險。",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#202020",
+  "theme_color": "#202020",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
